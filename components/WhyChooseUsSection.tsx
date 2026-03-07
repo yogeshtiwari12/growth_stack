@@ -28,7 +28,7 @@ const reasons = [
 
 const WhyChooseUsSection = () => {
   return (
-    <section className="py-24 lg:py-32 bg-muted/30 relative overflow-hidden">
+    <section className="py-24 lg:py-32 bg-background relative overflow-hidden">
       <div className="absolute top-0 left-0 right-0 h-px section-divider" />
       <div className="container mx-auto px-6">
         <div className="grid lg:grid-cols-2 gap-16 items-center max-w-6xl mx-auto">
